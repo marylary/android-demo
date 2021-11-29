@@ -21,4 +21,10 @@ public class CalculatriceActivity extends AppCompatActivity {
 
     public void equalsEvent(View view) {
     }
+
+    public void acEvent(View view) {
+    }
+
+    public void percentEvent(View view) {
+    }
 }
